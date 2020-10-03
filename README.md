@@ -12,5 +12,6 @@ change partician = whatever numbers I give you
 
 then go back to the directory review_scraper (keep in mind this is not the same as review_scraper/review_scraper)
 
-in the command line run: scrapy crawl imdb_review_spider
+in the command line run: 
+scrapy crawl imdb_review_spider -o data[your numbers].csv -t csv
 
