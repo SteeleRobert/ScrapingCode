@@ -7,7 +7,8 @@ Welcome to roberts program for scraping code. You will need:
 first pip install scrapy
 
 then in your text editor of choise open reviews_scraper\reviews_scraper\spiders\review_spider.py
-change partician = whatever number I give you
+
+change partician = whatever numbers I give you
 
 then go back to the directory review_scraper (keep in mind this is not the same as review_scraper/review_scraper)
 
